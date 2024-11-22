@@ -4,6 +4,8 @@ public class Main {
         x=5;
         y=2;
         z =x+y;
-        System.out.println(z);
+        System.out.println(z); //sgit
+        System.out.println(x);
+        System.out.println(y);
     }
 }
