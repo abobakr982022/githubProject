@@ -7,6 +7,6 @@ public class Main {
         System.out.println(z); //sgit
         System.out.println(x + x);
         System.out.println(y);
-        System.out.println("welcome user1");
+        System.out.println("hello3");
     }
 }
